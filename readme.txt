@@ -16,7 +16,7 @@ II. Description
 	
 III.Supported Device
 	Huawei Blade Server: E9000
-	Huawei Rack  Server: RH1288 V3, RH2288H V2, RH2288 V3, RH2288H V3
+	Huawei Rack  Server: RH1288 V3, RH2288H V2, RH2288 V3, RH2288H V3,RH1288H V5,RH2288H V5,RH2488 V5
 	Huawei High-density Server:  X6000, X6800
 
 

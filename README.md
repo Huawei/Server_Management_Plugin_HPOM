@@ -29,4 +29,4 @@ IV.Supported Device
 
 V. Additional Resources
 
-    For more information consult User Guide. https://github.com/Huawei/Server_Managemet_Plugin_HPOM/tree/master/docs
+    For more information consult User Guide. https://github.com/Huawei/Server_Management_Plugin_HPOM/tree/master/docs

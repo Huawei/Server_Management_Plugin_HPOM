@@ -17,9 +17,9 @@ II. Description
 
 III.Supported Software Version
 
-    HP OMW 9.0
-    HP OML 9.22
-    HP OMi 10.11
+    HP OMW 9.0
+    HP OML 9.22
+    HP OMi 10.11
 
 IV.Supported Device
 

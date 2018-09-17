@@ -8,7 +8,7 @@ I. General Information
 
     Name:     HPOM Plugin for Huawei Server
     Category: Monitoring
-    Version:  1.0
+    Version:  2.0
 
 
 II. Description
